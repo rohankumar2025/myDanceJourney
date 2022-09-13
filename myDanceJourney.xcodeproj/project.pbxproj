@@ -7,18 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F2BA5E428C82FCC001CBB28 /* ConvertErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2BA5E328C82FCC001CBB28 /* ConvertErrorMessage.swift */; };
+		4F2BA5E728C8313F001CBB28 /* StoreProfilePic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F2BA5E628C8313F001CBB28 /* StoreProfilePic.swift */; };
+		4FD499B228CBAF1100DE79CF /* CirclesButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD499B128CBAF1100DE79CF /* CirclesButton.swift */; };
+		4FD499B628CC133300DE79CF /* CirclesPopup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD499B528CC133300DE79CF /* CirclesPopup.swift */; };
+		4FD499B928CD165D00DE79CF /* CreateCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FD499B828CD165D00DE79CF /* CreateCircleView.swift */; };
 		4FFDD68528C7EDD600D37AAE /* myDanceJourneyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD68428C7EDD600D37AAE /* myDanceJourneyApp.swift */; };
 		4FFDD68728C7EDD600D37AAE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD68628C7EDD600D37AAE /* ContentView.swift */; };
 		4FFDD68928C7EDD700D37AAE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FFDD68828C7EDD700D37AAE /* Assets.xcassets */; };
 		4FFDD68C28C7EDD700D37AAE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4FFDD68B28C7EDD700D37AAE /* Preview Assets.xcassets */; };
+		4FFDD69328C7EDFE00D37AAE /* Circles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD69228C7EDFE00D37AAE /* Circles.swift */; };
+		4FFDD69628C7EE1200D37AAE /* Growth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD69528C7EE1200D37AAE /* Growth.swift */; };
+		4FFDD69828C7EE1900D37AAE /* Calendar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD69728C7EE1900D37AAE /* Calendar.swift */; };
+		4FFDD69A28C7EE2600D37AAE /* Ideabank.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD69928C7EE2600D37AAE /* Ideabank.swift */; };
+		4FFDD69C28C7EE2D00D37AAE /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD69B28C7EE2D00D37AAE /* Profile.swift */; };
+		4FFDD69F28C7F33700D37AAE /* ProfileManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD69E28C7F33700D37AAE /* ProfileManager.swift */; };
+		4FFDD6A128C7F97400D37AAE /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD6A028C7F97400D37AAE /* ImagePicker.swift */; };
+		4FFDD6A528C7FD0A00D37AAE /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = 4FFDD6A428C7FD0A00D37AAE /* SDWebImageSwiftUI */; };
+		4FFDD6A728C7FE3900D37AAE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4FFDD6A628C7FE3900D37AAE /* GoogleService-Info.plist */; };
+		4FFDD6A928C7FECA00D37AAE /* FirebaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD6A828C7FECA00D37AAE /* FirebaseManager.swift */; };
+		4FFDD6AC28C7FF0E00D37AAE /* Authentication.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD6AB28C7FF0E00D37AAE /* Authentication.swift */; };
+		4FFDD6AE28C7FF1400D37AAE /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD6AD28C7FF1400D37AAE /* Login.swift */; };
+		4FFDD6B028C7FF2200D37AAE /* SignUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FFDD6AF28C7FF2200D37AAE /* SignUp.swift */; };
+		E40CC32E481FE4DC41384540 /* Pods_myDanceJourney.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7B1B877D6F7BCE87A3F6B88 /* Pods_myDanceJourney.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B41850C135D805FC393D122 /* Pods-myDanceJourney.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myDanceJourney.release.xcconfig"; path = "Target Support Files/Pods-myDanceJourney/Pods-myDanceJourney.release.xcconfig"; sourceTree = "<group>"; };
+		4F2BA5E328C82FCC001CBB28 /* ConvertErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertErrorMessage.swift; sourceTree = "<group>"; };
+		4F2BA5E628C8313F001CBB28 /* StoreProfilePic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreProfilePic.swift; sourceTree = "<group>"; };
+		4FD499B128CBAF1100DE79CF /* CirclesButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclesButton.swift; sourceTree = "<group>"; };
+		4FD499B528CC133300DE79CF /* CirclesPopup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirclesPopup.swift; sourceTree = "<group>"; };
+		4FD499B828CD165D00DE79CF /* CreateCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateCircleView.swift; sourceTree = "<group>"; };
 		4FFDD68128C7EDD600D37AAE /* myDanceJourney.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myDanceJourney.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FFDD68428C7EDD600D37AAE /* myDanceJourneyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myDanceJourneyApp.swift; sourceTree = "<group>"; };
 		4FFDD68628C7EDD600D37AAE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4FFDD68828C7EDD700D37AAE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4FFDD68B28C7EDD700D37AAE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4FFDD69228C7EDFE00D37AAE /* Circles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circles.swift; sourceTree = "<group>"; };
+		4FFDD69528C7EE1200D37AAE /* Growth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Growth.swift; sourceTree = "<group>"; };
+		4FFDD69728C7EE1900D37AAE /* Calendar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar.swift; sourceTree = "<group>"; };
+		4FFDD69928C7EE2600D37AAE /* Ideabank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ideabank.swift; sourceTree = "<group>"; };
+		4FFDD69B28C7EE2D00D37AAE /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		4FFDD69E28C7F33700D37AAE /* ProfileManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileManager.swift; sourceTree = "<group>"; };
+		4FFDD6A028C7F97400D37AAE /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		4FFDD6A628C7FE3900D37AAE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		4FFDD6A828C7FECA00D37AAE /* FirebaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseManager.swift; sourceTree = "<group>"; };
+		4FFDD6AB28C7FF0E00D37AAE /* Authentication.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Authentication.swift; sourceTree = "<group>"; };
+		4FFDD6AD28C7FF1400D37AAE /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		4FFDD6AF28C7FF2200D37AAE /* SignUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUp.swift; sourceTree = "<group>"; };
+		77192373BBD074E25C30F159 /* Pods-myDanceJourney.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myDanceJourney.debug.xcconfig"; path = "Target Support Files/Pods-myDanceJourney/Pods-myDanceJourney.debug.xcconfig"; sourceTree = "<group>"; };
+		E7B1B877D6F7BCE87A3F6B88 /* Pods_myDanceJourney.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myDanceJourney.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,17 +65,47 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FFDD6A528C7FD0A00D37AAE /* SDWebImageSwiftUI in Frameworks */,
+				E40CC32E481FE4DC41384540 /* Pods_myDanceJourney.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		319F1CC5E723C7B6B7FE53D5 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				77192373BBD074E25C30F159 /* Pods-myDanceJourney.debug.xcconfig */,
+				1B41850C135D805FC393D122 /* Pods-myDanceJourney.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		4F2BA5E528C82FD0001CBB28 /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				4F2BA5E328C82FCC001CBB28 /* ConvertErrorMessage.swift */,
+				4F2BA5E628C8313F001CBB28 /* StoreProfilePic.swift */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		4FD499B728CD164E00DE79CF /* Sheets */ = {
+			isa = PBXGroup;
+			children = (
+				4FD499B828CD165D00DE79CF /* CreateCircleView.swift */,
+			);
+			path = Sheets;
+			sourceTree = "<group>";
+		};
 		4FFDD67828C7EDD600D37AAE = {
 			isa = PBXGroup;
 			children = (
 				4FFDD68328C7EDD600D37AAE /* myDanceJourney */,
 				4FFDD68228C7EDD600D37AAE /* Products */,
+				319F1CC5E723C7B6B7FE53D5 /* Pods */,
+				CC01B2B66AC232200F382867 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,8 +120,14 @@
 		4FFDD68328C7EDD600D37AAE /* myDanceJourney */ = {
 			isa = PBXGroup;
 			children = (
+				4FFDD6A628C7FE3900D37AAE /* GoogleService-Info.plist */,
 				4FFDD68428C7EDD600D37AAE /* myDanceJourneyApp.swift */,
 				4FFDD68628C7EDD600D37AAE /* ContentView.swift */,
+				4FFDD69428C7EE0200D37AAE /* Views */,
+				4FD499B728CD164E00DE79CF /* Sheets */,
+				4FFDD69D28C7F31F00D37AAE /* Classes */,
+				4F2BA5E528C82FD0001CBB28 /* Functions */,
+				4FFDD6A228C7F97E00D37AAE /* Structs */,
 				4FFDD68828C7EDD700D37AAE /* Assets.xcassets */,
 				4FFDD68A28C7EDD700D37AAE /* Preview Content */,
 			);
@@ -67,6 +142,56 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		4FFDD69428C7EE0200D37AAE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				4FFDD69228C7EDFE00D37AAE /* Circles.swift */,
+				4FFDD69528C7EE1200D37AAE /* Growth.swift */,
+				4FFDD69728C7EE1900D37AAE /* Calendar.swift */,
+				4FFDD69928C7EE2600D37AAE /* Ideabank.swift */,
+				4FFDD69B28C7EE2D00D37AAE /* Profile.swift */,
+				4FFDD6AA28C7FEFC00D37AAE /* Authentication */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4FFDD69D28C7F31F00D37AAE /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4FFDD69E28C7F33700D37AAE /* ProfileManager.swift */,
+				4FFDD6A828C7FECA00D37AAE /* FirebaseManager.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		4FFDD6A228C7F97E00D37AAE /* Structs */ = {
+			isa = PBXGroup;
+			children = (
+				4FFDD6A028C7F97400D37AAE /* ImagePicker.swift */,
+				4FD499B128CBAF1100DE79CF /* CirclesButton.swift */,
+				4FD499B528CC133300DE79CF /* CirclesPopup.swift */,
+			);
+			path = Structs;
+			sourceTree = "<group>";
+		};
+		4FFDD6AA28C7FEFC00D37AAE /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				4FFDD6AB28C7FF0E00D37AAE /* Authentication.swift */,
+				4FFDD6AD28C7FF1400D37AAE /* Login.swift */,
+				4FFDD6AF28C7FF2200D37AAE /* SignUp.swift */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		CC01B2B66AC232200F382867 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				E7B1B877D6F7BCE87A3F6B88 /* Pods_myDanceJourney.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,15 +199,20 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4FFDD68F28C7EDD700D37AAE /* Build configuration list for PBXNativeTarget "myDanceJourney" */;
 			buildPhases = (
+				AE9A8EFD9518862705DF3915 /* [CP] Check Pods Manifest.lock */,
 				4FFDD67D28C7EDD600D37AAE /* Sources */,
 				4FFDD67E28C7EDD600D37AAE /* Frameworks */,
 				4FFDD67F28C7EDD600D37AAE /* Resources */,
+				EFCE8AB614963B18369A5626 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = myDanceJourney;
+			packageProductDependencies = (
+				4FFDD6A428C7FD0A00D37AAE /* SDWebImageSwiftUI */,
+			);
 			productName = myDanceJourney;
 			productReference = 4FFDD68128C7EDD600D37AAE /* myDanceJourney.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +241,9 @@
 				Base,
 			);
 			mainGroup = 4FFDD67828C7EDD600D37AAE;
+			packageReferences = (
+				4FFDD6A328C7FD0A00D37AAE /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+			);
 			productRefGroup = 4FFDD68228C7EDD600D37AAE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,19 +259,78 @@
 			buildActionMask = 2147483647;
 			files = (
 				4FFDD68C28C7EDD700D37AAE /* Preview Assets.xcassets in Resources */,
+				4FFDD6A728C7FE3900D37AAE /* GoogleService-Info.plist in Resources */,
 				4FFDD68928C7EDD700D37AAE /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		AE9A8EFD9518862705DF3915 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-myDanceJourney-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EFCE8AB614963B18369A5626 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-myDanceJourney/Pods-myDanceJourney-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-myDanceJourney/Pods-myDanceJourney-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-myDanceJourney/Pods-myDanceJourney-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		4FFDD67D28C7EDD600D37AAE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4FFDD69A28C7EE2600D37AAE /* Ideabank.swift in Sources */,
 				4FFDD68728C7EDD600D37AAE /* ContentView.swift in Sources */,
+				4F2BA5E428C82FCC001CBB28 /* ConvertErrorMessage.swift in Sources */,
+				4FFDD6A928C7FECA00D37AAE /* FirebaseManager.swift in Sources */,
+				4FD499B628CC133300DE79CF /* CirclesPopup.swift in Sources */,
 				4FFDD68528C7EDD600D37AAE /* myDanceJourneyApp.swift in Sources */,
+				4FFDD6A128C7F97400D37AAE /* ImagePicker.swift in Sources */,
+				4FFDD69F28C7F33700D37AAE /* ProfileManager.swift in Sources */,
+				4FFDD6AE28C7FF1400D37AAE /* Login.swift in Sources */,
+				4F2BA5E728C8313F001CBB28 /* StoreProfilePic.swift in Sources */,
+				4FFDD69C28C7EE2D00D37AAE /* Profile.swift in Sources */,
+				4FD499B928CD165D00DE79CF /* CreateCircleView.swift in Sources */,
+				4FFDD6AC28C7FF0E00D37AAE /* Authentication.swift in Sources */,
+				4FFDD69628C7EE1200D37AAE /* Growth.swift in Sources */,
+				4FFDD69328C7EDFE00D37AAE /* Circles.swift in Sources */,
+				4FD499B228CBAF1100DE79CF /* CirclesButton.swift in Sources */,
+				4FFDD6B028C7FF2200D37AAE /* SignUp.swift in Sources */,
+				4FFDD69828C7EE1900D37AAE /* Calendar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +453,7 @@
 		};
 		4FFDD69028C7EDD700D37AAE /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 77192373BBD074E25C30F159 /* Pods-myDanceJourney.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -290,6 +483,7 @@
 		};
 		4FFDD69128C7EDD700D37AAE /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B41850C135D805FC393D122 /* Pods-myDanceJourney.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -339,6 +533,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		4FFDD6A328C7FD0A00D37AAE /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		4FFDD6A428C7FD0A00D37AAE /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 4FFDD6A328C7FD0A00D37AAE /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 4FFDD67928C7EDD600D37AAE /* Project object */;
 }
